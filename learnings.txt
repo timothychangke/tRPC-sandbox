@@ -1,0 +1,5 @@
+tRPC =  gives a dev type safety between a client and a server.
+        when something is changed on the server, intellisense and error handling automatically picks up on the mismatch between responses and their formats
+for tRPC:
+1. you will have to be using typescript
+2. your server and client has to be in the same repository  
